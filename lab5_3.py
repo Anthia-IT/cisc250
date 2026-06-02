@@ -52,3 +52,5 @@ def load_task_list():
     else:
 
         return []
+    
+    # End of Section 3
