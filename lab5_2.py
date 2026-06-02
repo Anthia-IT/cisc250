@@ -117,4 +117,4 @@ product1.display_details()
 
 #3.4 Display the digital product details
 
-digital_product1.display_details()
+digital_product1.display_details() 
